@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,700;1,400;1,900&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" >
+    <link rel="stylesheet" href="formulario%20bootstrap/style.css">
+    <title>Preguntas Frecuentes</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+   <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css">
+
+  </head>
+  
+  <body>
+   
+  
+    <style>
+
+      .estatica_cuerpo{
+        color:  #020b27;
+        font-family:  'Poppins', sans-serif;
+        font-size: clamp(1.5rem, 1.8vw, 2rem);
+        line-height: 1.6;
+      } 
+      .estatica_cuerpo > p{
+        font-weight: 300;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5em;
+      }
+     
+      .titulos-estaticas{
+        font-family: 'Roboto', sans-serif;
+      }
+      
+      .encabezado{
+        font-size: clamp(4rem, 1em + 10vw, 7rem);
+        line-height: 1.6;
+        margin-top:1.25rem;
+        margin-bottom: 0; 
+        font-weight: 900;
+      }
+     
+      
+      .preguntas{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .preguntas-link,
+      .preguntas-link:focus,
+      .preguntas-link:hover, 
+      .preguntas-link:active {
+        font-size:1.5em; 
+        text-decoration: none;
+        text-transform: none;
+        color:inherit
+      }
+      
+      .preguntas-link:hover, 
+      .preguntas-link:active{
+        color:#63e392;
+      }
+      
+
+      .panel-body{
+        font-size: 1em;
+        margin:15px;
+        padding-bottom: 25px;
+        border-bottom: 1px solid #dbdce0;
+      }
+      
+      
+    </style>
+ <div class="container ">
+      <div class="col-lg-12" >
+        <div class="jumbotron  estatica_cuerpo" style=" margin: 0 auto; max-width: 800px; background: #3333;">
+          <h1 class="text-center titulos-estaticas" >Preguntas Frecuentes</h1>
+            <hr>
+            <div id="accordion">
+              <div class="card">
+                <div class="card-header" id="headingOne">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link preguntas-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                      ¿Cu&aacute;nto tiempo tarda el pedido y/o producto en llegar?&nbsp;&nbsp;<span class="caret"></span>
+                    </button>
+                  </h5>
+                </div>
+            
+                <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    Nuestro tiempo de entrega aproximado es de 1 a 2 d&iacute;as.
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="headingTwo">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed preguntas-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      ¿Tiene garant&iacute;a el producto?&nbsp;&nbsp;<span class="caret"></span>
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                  <div class="card-body">
+                    La garantía con la que cuenta nuestro producto, únicamente aplica por defectos de producción y/o fabricación, siempre y cuando no haya tenido alteraciones o manipulación por personas externas.
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header" id="headingThree">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed preguntas-link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      ¿Cuáles son las políticas para reembolso?&nbsp;&nbsp;<span class="caret"></span>
+                    </button>
+                  </h5>
+                </div>
+                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                  <div class="card-body">
+                    Solo se realiza cambio por producto de la misma presentación o por otro producto que dé el mismo importe de la compra.
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+   
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+
+  </body>
+</html>

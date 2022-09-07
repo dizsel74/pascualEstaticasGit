@@ -1,0 +1,121 @@
+ <style>
+    :root{
+  --fs-1: 1.125rem;
+  --fs-2: 1.5rem
+  --fs-3: 2rem;
+  --fs-xl: clamp(3rem, 1em + 10vw, 7rem);
+ 
+  --fw-1:200;
+  --fw-2:400;
+  --fw-3:900;
+
+  --clr-blanco: #fbfbfb;
+  --clr-azul-1: #34b7f1;
+  --clr-azul-2: #085272;
+  --clr-azul-3: #020b27;
+  --clr-verde: #63e392;
+
+  --fnt-body: 'Poppins', sans-serif;
+  --fnt-titles: 'Roboto', sans-serif;
+
+}
+ *, *::after,*::before{
+  margin: 0px;
+  box-sizing: border-box;
+}
+/* body,h1,h2,h3,blockquote{
+  margin: 0;
+  padding: 0;
+} */
+
+
+body{
+  background: var(--clr-blanco);
+  color: var(--clr-azul-3);
+  font-family: var(--fnt-body);
+  font-size: var(--fs-1);
+  line-height: 1.6;
+}
+.img_estatica{
+  display:block;
+ max-width: 100%;
+}
+
+.titulo-estatica{
+  font-family: var(--fnt-titles);
+   font-weight:var(--fw-3);
+}
+
+.estaticas-titulo{
+  font-size: var(--fs-xl);
+  line-height: 1.6;
+  margin-top:1.25rem;
+  margin-bottom: 1.25rem; 
+}
+
+.article_estatica{
+  display:grid;
+  max-width: 100%;
+}
+.article_estatica > *:not(img){
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+@media (min-width: 50em) {
+  .article_estatica{
+    grid-template-columns:1fr 1fr 1fr;
+    
+  }
+
+  .article_estatica > img {
+      grid-row: 1 / 4;
+      height: 100%;
+      object-fit: cover;
+  }
+
+  .article_estatica > *:not(img){
+    grid-column: 2 / -1;
+  }
+
+}
+
+.margen-sup-inf{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5em;
+}
+
+
+.article-body > p:first-child::first-letter {
+  font-size: 4em;
+  float: left;
+  line-height: 1.1;
+  margin-right: 0.5rem;
+}
+
+.article-body > p:first-child::first-line {
+  font-weight: 523;
+}
+.lead {
+  font-size: var(--fs-3);
+  font-weight: var(--fw-2);
+  line-height: 1.3;
+  max-width: 80%;
+}
+  </style>
+
+    <article class="article_estatica">
+      <img class="img_estatica" src="https://pascualstorefront.c5kpw3rkr5-sociedadc1-d1-public.model-t.cc.commerce.ondemand.com/medias/Pascual-Dummy-p-ginas.png?context=bWFzdGVyfGltYWdlc3wxNjgyMzB8aW1hZ2UvcG5nfGg4NS9oODYvODgxNjIzMjk1NTkzNC9QYXNjdWFsLUR1bW15LXDDoWdpbmFzLnBuZ3w5NTFjNjY2Y2M1ZmFhMDM3MGExZjQxY2I0OWQ2ZjYwZTA3NTExMjhjNDYxZWQwODk4NzBlZmE5NzU2N2VjZDg1" alt="" class="article-main-image">
+      <div class="margen-pascual otro">
+        <h1 class="estaticas-titulo titulo-estatica">Misión</h1>
+        <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit.Qui voluptate autem molestias </p>
+        <div class="article-body">
+          <p class="margen-sup-inf">Pascual ipsum dolor sit amet consectetur adipisicing elit. Qui voluptate autem molestias, sed, placeat vel delectus, illum aliquam mollitia accusantium aut quas totam distinctio reiciendis odit provident iure? Commodi veritatis odit eius impedit maiores pariatur reprehenderit voluptatem nemo odio, aut alias saepe, quod, sequi perspiciatis?</p>
+          <p class="margen-sup-inf">Sed laborum accusantium reprehenderit maiores pariatur perferendis possimus corrupti dicta? Non nobis libero a ducimus repellat ullam et aliquam voluptas vero! Nam error necessitatibus sequi dolorem officiis id voluptate sint minima. Error fuga eaque sapiente molestiae sunt. Doloremque numquam a debitis, quia laborum dolore repellat!</p>
+          <p class="margen-sup-inf">Officiis et amet, laudantium optio molestias magnam, dolorem explicabo atque error vel distinctio labore nostrum at temporibus possimus incidunt in consectetur nemo cum, quod unde! Ipsam, animi autem? Magnam voluptatibus ea officiis eum enim, est illum, corrupti vel accusantium ipsam, illo doloribus veniam animi ipsum.</p>
+          <blockquote class="titulo-estatica">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, quae?</blockquote>
+          <p class="margen-sup-inf">Quasi aperiam laboriosam voluptate illum eligendi deleniti. Beatae nam quisquam illo necessitatibus magnam ducimus modi a quaerat dignissimos maiores consequuntur rem facere officia dolor deleniti fuga consequatur labore sapiente, ratione placeat non! Alias nesciunt aliquam amet, corrupti itaque quas neque voluptatem cupiditate omnis magni illum?</p>
+        </div>
+      </div>
+    </article>
+  

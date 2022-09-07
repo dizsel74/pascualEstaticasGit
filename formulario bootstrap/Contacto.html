@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,700;1,400;1,900&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" >
+    <link rel="stylesheet" href="style.css">
+    <title>formulario</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+   <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css">
+<style>
+ 
+ .titulos-estaticas{
+        font-family: 'Roboto', sans-serif;
+      }
+      
+  .encabezado{
+        font-size: clamp(4rem, 1em + 10vw, 7rem);
+        line-height: 1.6;
+        margin-top:1.25rem;
+        margin-bottom: 0; 
+        font-weight: 900;
+      }
+ .estatica_cuerpo{
+  color:#020b27;
+        font-family:  'Poppins', sans-serif;
+        font-size: clamp(1.5rem, 1.8vw, 2rem);
+        line-height: 1.6;
+        letter-spacing: 1px;
+      } 
+/*  */
+
+  .estatica_cuerpo > p{
+        font-weight: 300;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5em;
+      }
+  .espacio-sup{
+        margin-top: 80px
+      }
+      
+  
+      .label-help-pascual{
+  color:#020b27;
+ }
+</style>
+  </head>
+  
+  <body>
+    
+    <div class="container">
+      <div class="col-lg-12">
+        <div class="jumbotron estatica_cuerpo " style=" margin: 0 auto; max-width: 500px; background: #3333;">
+          <h1 class="text-center titulos-estaticas" >¿Necesitas ayuda?</h1>
+          <br>
+          <p class="lead">Para apoyarte mejor deja aquí tus datos y nuestro personal se comunicara contigo.</p>
+          <br>
+         
+          <form id="helpForm" action="#" method="post">
+            <div class="form-group">
+              <label class="control-label label-help-pascual" for="help.title">¿Qué duda tienes?</label>
+              <input id="help.title" name="title" class="form-control form-control" type="text" placeholder="Escribe tu duda aquí" Title="Aquí puedes escribir tu duda" maxlength="40" value="" required >
+            </div>
+
+            <div class="form-group">
+              <label class="control-label label-help-pascual" for="help.firstName">Nombre</label>
+              <input id="help.firstName" name="firstName" class="form-control form-control" type="text" placeholder="Escribe tu nombre completo" Title="Aquí puedes escribir tu nombre completo" maxlength="40" value="" required >
+            </div>
+          
+            <div class="form-group">
+              <label class="control-label label-help-pascual" for="help.email">Correo</label>
+              <input id="help.email" name="email" class="form-control form-control" type="email" placeholder="micorreo@sitio.com" maxlength="60" pattern=".+@+.+.com" title="Porfavor, ingresa un correo valido" value="" required>
+            </div>
+
+            <div class="form-group">
+              <label class="control-label label-help-pascual " for="help.phone">Tel&eacute;fono</label>
+              <input id="help.phone" name="phone" class="form-control form-control" type="tel" placeholder="1122335599"pattern="[0-9]{10}"min="10" max="10" maxlength="10" title="Porfavor, ingresa un teléfono a 10 digitos" value="">
+            </div>
+            
+            <br>
+            <div class="form-actions clearfix">
+                <button type="submit" class="btn btn-primary btn-sm center-block" >
+                  <spring:theme code="" />Enviar
+                </button>
+            </div> 
+
+            <hr>
+            
+            <div class="form-group text-center">
+              <div class="checkbox">
+                <label class="control-label uncased" style="color:#020b27;;">
+                  <small>
+                  <input id="helpChkTermsConditions" name="termsCheck" type="checkbox" value="true">He leído y acepto los 
+                  <a class="termsAndConditionsLink" href="/es/termsAndConditions" rel="nofollow" style="color:#085272; font-weight:bolder;"> Términos y condiciones </a><br>
+                Conoce nuestro<a href="/es/avisodeprivacidad" class="fineprint" style="color:#085272; font-weight: bolder;"> aviso de privacidad</i></a></small>
+                </label>
+              </div>
+            </div>
+    
+          </form>
+        </div>
+      </div>
+    </div>
+    
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

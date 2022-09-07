@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,700;1,400;1,900&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" >
+    <link rel="stylesheet" href="formulario%20bootstrap/style.css">
+    <title>Preguntas Frecuentes</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+   <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css">
+
+  </head>
+  
+  <body>
+    <style>
+
+      .estatica_cuerpo{
+        color:  #020b27;
+        font-family:  'Poppins', sans-serif;
+        font-size: clamp(1.5rem, 1.8vw, 2rem);
+        line-height: 1.6;
+      } 
+      .estatica_cuerpo > p{
+        font-weight: 300;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5em;
+      }
+      .espacio-sup{
+        margin-top: 80px
+      }
+      
+      .titulos-estaticas{
+        font-family: 'Roboto', sans-serif;
+      }
+      
+      .encabezado{
+        font-size: clamp(4rem, 1em + 10vw, 7rem);
+        line-height: 1.6;
+        margin-top:1.25rem;
+        margin-bottom: 0; 
+        font-weight: 900;
+      }
+     
+      .panel-body{
+        font-size: 1.2em;
+      }
+      .panel-headings{
+        background-image: none;
+        background: #085272;
+      }
+      .preguntas{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      }
+      .preguntas-link{
+        font-size:1.5em; 
+      
+      }
+ 
+      .preguntas-link:link{
+        text-decoration: none;
+      }
+      .preguntas-link:hover{
+        color:#63e392;
+        text-decoration: none;
+      }
+
+    </style>
+     <div class="container ">
+      <div class="col-lg-12" >
+        <div class="jumbotron estatica_cuerpo">
+          <h1 class="text-center encabezado titulos-estaticas" >Preguntas Frecuentes</h1>
+          <hr>
+
+          <div class="panel-group" id="accordion">
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="preguntas-link"><spring:theme code="faqs.question.one" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.one" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="preguntas-link"><spring:theme code="faqs.question.two" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseTwo" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.two" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="preguntas-link"><spring:theme code="faqs.question.three" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseThree" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.three" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="preguntas-link"><spring:theme code="faqs.question.four" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFour" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.four" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="preguntas-link"><spring:theme code="faqs.question.five" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFive" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.five" htmlEscape="false" /></div>
+              </div>
+            </div>
+            
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" class="preguntas-link"><spring:theme code="faqs.question.six" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSix" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.six" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" class="preguntas-link"><spring:theme code="faqs.question.seven" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSeven" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.seven" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" class="preguntas-link"><spring:theme code="faqs.question.eight" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseEight" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.eight" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine" class="preguntas-link"><spring:theme code="faqs.question.nine" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseNine" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.nine" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen" class="preguntas-link"><spring:theme code="faqs.question.ten" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseTen" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.ten" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" class="preguntas-link"><spring:theme code="faqs.question.eleven" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseEleven" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.eleven" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" class="preguntas-link"><spring:theme code="faqs.question.twelve" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseTwelve" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.twelve" htmlEscape="false"/></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" class="preguntas-link"><spring:theme code="faqs.question.thirteen" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseThirteen" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.thirteen" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" class="preguntas-link"><spring:theme code="faqs.question.fourteen" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFourteen" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.fourteen" htmlEscape="false"/></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFiveteen" class="preguntas-link"><spring:theme code="faqs.question.fiveteen" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFiveteen" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.fiveteen" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" class="preguntas-link"><spring:theme code="faqs.question.sixteen" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSixteen" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.sixteen" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" class="preguntas-link"><spring:theme code="faqs.question.seventeen" />&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSeventeen" class="panel-collapse collapse">
+                <div class="panel-body"><spring:theme code="faqs.answer.seventeen" htmlEscape="false" /></div>
+              </div>
+            </div>
+
+          </div>
+          <hr>
+        </div>
+      </div>
+    </div> 
+
+   
+    
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>

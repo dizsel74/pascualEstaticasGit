@@ -1,0 +1,39 @@
+<div class="container-fluid">
+    <div class="row ">
+      <div class="col-md-6 col-lg-4  img_top-2 ">
+        <img class="img-responsive hidden-xs hidden-sm" src="https://pascualstorefront.c5kpw3rkr5-sociedadc1-d1-public.model-t.cc.commerce.ondemand.com/medias/peques-vertical.png?context=bWFzdGVyfGltYWdlc3w3NjEwMzB8aW1hZ2UvcG5nfGg1ZS9oZDIvODgyODA2NTYxMTgwNi9wZXF1ZXMtdmVydGljYWwucG5nfGRmNDRiNThlYTA1YjU2MmJhOTQ5MGRkZjRhYjUwMDViNjY1YzYyY2JlNTliYTIxZGE2NWMyMDE1MzdjZWRiODU" alt="imagen 2 ninos" >
+        <img class="img-responsive hidden-lg hidden-md" src="https://pascualstorefront.c5kpw3rkr5-sociedadc1-d1-public.model-t.cc.commerce.ondemand.com/medias/pequespascual.png?context=bWFzdGVyfGltYWdlc3wxOTkwNzF8aW1hZ2UvcG5nfGhiZi9oYzgvODgyODA2MDg2MDQ0Ni9wZXF1ZXNwYXNjdWFsLnBuZ3xjYTFhMmMxYmI4MzU0YjJhMWQ4OWNmNjU0N2U2NGUzNGRkYWQ4NDEyZTZiYjE5MzliZmQyYmI0YWQ2YTEzZjll" alt="imagen de dos niños tomando pascual" loading="lazy">
+      </div>
+      <div class="col-md-6 col-lg-8  estatica_cuerpo">
+        <h1 class="encabezado titulos-estaticas">Valores</h1>
+        <p class="leads">Estos son nuestros valores </p>
+        <div class="article-body">
+          <p id="valores__title">Solidaridad</p>
+           <blockquote class="titulo-estatica">Es la unión a la causa de los demás apoyándonos mutuamente.</blockquote>  
+        </div>
+        <div class="article-body">
+          <p id="valores__title">Responsabilidad</p>
+           <blockquote class="titulo-estatica">Es garantizar el cumplimiento de los compromisos adquiridos.</blockquote>
+        </div>
+        <div class="article-body">
+          <p id="valores__title">Ayuda Mutua</p>
+           <blockquote class="titulo-estatica">Cuando dos o más personas se socorren y cooperan  entre sí y para lograr un fin común.</blockquote>
+        </div>
+        <div class="article-body">
+          <p id="valores__title">Democracia</p>
+           <blockquote class="titulo-estatica">Hacer valer el derecho al voto. Respetando las ideas de los demás.</blockquote>
+        </div>
+        <div class="article-body">
+          <p id="valores__title">Igualdad</p>
+           <blockquote class="titulo-estatica">Es el trato humanitario hacia los demás sin discriminar a nadie.</blockquote>
+        </div>
+        <div class="article-body">
+          <p id="valores__title">Equidad</blockquote>
+          <blockquote class="titulo-estatica">
+        Dar a cada cual lo que se merece o ha ganado según sea el grado de participación.</blockquote>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  

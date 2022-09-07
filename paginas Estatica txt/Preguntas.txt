@@ -1,0 +1,182 @@
+
+     <div class="container text-justify">
+      <div class="col-lg-12" >
+        <div class="jumbotron estatica_cuerpo" style="background: #eeee;">
+          <h1 class="text-center  titulos-estaticas" >Preguntas Frecuentes</h1>
+          <hr>
+
+          <div class="panel-group" id="accordion">
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="preguntas-link">¿Cu&aacute;nto tiempo tarda el pedido y/o producto en llegar?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse">
+                <div class="panel-body">Nuestro tiempo de entrega aproximado es de 3 a 7 d&iacute;as.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="preguntas-link">¿Tiene garant&iacute;a el producto?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseTwo" class="panel-collapse collapse">
+                <div class="panel-body">La garantía con la que cuenta nuestro producto, únicamente aplica por defectos de producción y/o fabricación, siempre y cuando no haya tenido alteraciones o manipulación por personas externas.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="preguntas-link">¿Cuáles son las políticas para reembolso?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseThree" class="panel-collapse collapse">
+                <div class="panel-body">Solo se realiza cambio por producto de la misma presentación o por otro producto que dé el mismo importe de la compra.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="preguntas-link">¿Qué método de pago aceptan?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFour" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <strong>Pago contra entrega:</strong> Paga en efectivo al recibir tu pedido en tu hogar.
+                  <br>
+                  <strong>Tarjeta de crédito o débito, Visa, MasterCard o AMEX</strong> (Mercado Pago).</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="preguntas-link">¿Cómo se hace el <strong>Boing</strong>?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFive" class="panel-collapse collapse">
+                <div class="panel-body">
+                  Producción:<a href="https://youtu.be/2FnOsj7FElE" target="_blank"> https://youtu.be/2FnOsj7FElE</a> <br>
+                  Plantas de producción:<a href="https://youtu.be/qovtDxccR2M" target="_blank"> https://youtu.be/qovtDxccR2M</a></div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" class="preguntas-link">¿Sus empaques son ecológicos?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSix" class="panel-collapse collapse">
+                <div class="panel-body">Si, la Cooperativa Pascual esta en apoyo a los empaques ecológicos por lo que sus recipientes o envolturas elaborados a partir de materias primas que se degradan fácilmente, con el objetivo de disminuir la huella ambiental y facilitar el proceso de separación de residuos.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" class="preguntas-link">¿Utilizas materiales de calidad?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSeven" class="panel-collapse collapse">
+                <div class="panel-body">Sociedad Cooperativa Trabajadores de Pascual, S. C. L. es una empresa 100% mexicana, y está comprometida con la población para ofrecer los más altos estándares de calidad.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" class="preguntas-link">¿Quién se encarga de mi pedido una vez realizado en la página Pascual contigo?<span class="caret"></span></a>
+              </div>
+              <div id="collapseEight" class="panel-collapse collapse">
+                <div class="panel-body">Se da seguimiento mediante los ejecutivos vía telefónica y por sistema hasta confirmar que se haya entregado el producto en las mejores condiciones.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseNine" class="preguntas-link">¿Y si cambio de dirección, a quien se le avisa?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseNine" class="panel-collapse collapse">
+                <div class="panel-body">Ingresa a mi cuenta y en la pestaña de libreta de direcciones se pueden hacer la modificación del domicilio que sea correcto o se puede contactar con el ejecutivo para su asesoramiento.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTen" class="preguntas-link">¿Dónde puedo ver las promociones?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseTen" class="panel-collapse collapse">
+                <div class="panel-body">En la pantalla principal podrás observar la pestaña de promociones que se tienen en el momento o en efecto puede solicitar con el ejecutivo que le esté dando la atención y se le hace llegar por WhatsApp o Facebook.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" class="preguntas-link">¿Cómo puedo registrarme?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseEleven" class="panel-collapse collapse">
+                <div class="panel-body">Encuentra la sección de registro en la parte superior izquierda o en el check-out al momento de realizar tu compra. Debes proporcionar tu nombre completo, e-mail, contraseña, fecha de nacimiento, así como la dirección de envío para crear tu cuenta y comenzar a disfrutar de Pascual contigo.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" class="preguntas-link">¿Qué pasa si no recibo mi pedido en la fecha programada?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseTwelve" class="panel-collapse collapse">
+                <div class="panel-body">Puedes comunicarte a Pascual contigo a través del 800-727-2825 donde darán seguimiento a tu pedido. Es importante que tengas a la mano los datos de tu pedido para poder dar seguimiento a tu solicitud.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" class="preguntas-link">¿Qué pasa si no me encuentro en mi domicilio cuando se haga la entrega?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseThirteen" class="panel-collapse collapse">
+                <div class="panel-body">El repartidor entregará tu pedido en la fecha acordada. De no encontrarte, serás notificado y se reprogramará la entrega. Si la segunda entrega no tiene éxito tu pedido será cancelado.<br><br>
+                También, puedes comunicarte al Pascual contigo a través del 800-727-2825 donde podrán dar seguimiento a tu pedido.</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" class="preguntas-link">¿Cómo solicito factura?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFourteen" class="panel-collapse collapse">
+                <div class="panel-body">Es necesario que solicites tu factura en el check-out de tu compra y completes los campos, de lo contrario no podremos realizar tu factura. Si tienes alguna duda en particular, puedes comunicarte al 800-727-2825</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseFiveteen" class="preguntas-link">¿Cómo saber el status de mi pedido?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseFiveteen" class="panel-collapse collapse">
+                <div class="panel-body">Una vez finalizada tu compra, recibirás un correo electrónico confirmando tu pedido con el detalle de compra. Además, recibirás periódicamente correos indicando el estado de tu pedido.<br>
+                  <br>Puedes verificar el estado de tu compra ingresando a “Mi Perfil” en la sección “Mis Pedidos & Ordenes Recurrentes” en la parte superior derecha</div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" class="preguntas-link">¿Cómo puedo cancelar un pedido?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSixteen" class="panel-collapse collapse">
+                <div class="panel-body">Por el momento no puedes realizar cancelación de pedidos desde el sitio. Si deseas cancelar tu pedido debes comunicarte al 800-727-2825. Consulta las condiciones de cancelaciones en la sección "Políticas de servicio". </div>
+              </div>
+            </div>
+
+            <div class="preguntas">
+              <div class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" class="preguntas-link">¿Cómo le hago si olvide mi contraseña?&nbsp;<span class="caret"></span></a>
+              </div>
+              <div id="collapseSeventeen" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <ul>
+                    <li>Ingresa la página presiona recuperación de Contraseña.</li>
+                    <li>Verificar si tu correo electrónico, seguir el enlace.</li>
+                    <li>Solo introduce tu nueva contraseña, da clic en continuar y listo.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <hr>
+        </div>
+      </div>
+
+
+    </div>
