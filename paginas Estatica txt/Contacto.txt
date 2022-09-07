@@ -1,11 +1,11 @@
-<div class="container">
+ <div class="container text-justify">
       <div class="col-lg-12">
         <div class="jumbotron estatica_cuerpo " style=" margin: 0 auto; max-width: 500px; background: #3333;">
           <h1 class="text-center titulos-estaticas" >¿Necesitas ayuda?</h1>
           <br>
           <p class="lead">Para apoyarte mejor deja aquí tus datos y nuestro personal se comunicara contigo.</p>
           <br>
-         
+
           <form id="helpForm" action="#" method="post">
             <div class="form-group">
               <label class="control-label label-help-pascual" for="help.title">¿Qué duda tienes?</label>
@@ -16,7 +16,7 @@
               <label class="control-label label-help-pascual" for="help.firstName">Nombre</label>
               <input id="help.firstName" name="firstName" class="form-control form-control" type="text" placeholder="Escribe tu nombre completo" Title="Aquí puedes escribir tu nombre completo" maxlength="40" value="" required >
             </div>
-          
+
             <div class="form-group">
               <label class="control-label label-help-pascual" for="help.email">Correo</label>
               <input id="help.email" name="email" class="form-control form-control" type="email" placeholder="micorreo@sitio.com" maxlength="60" pattern=".+@+.+.com" title="Porfavor, ingresa un correo valido" value="" required>
@@ -26,27 +26,27 @@
               <label class="control-label label-help-pascual " for="help.phone">Tel&eacute;fono</label>
               <input id="help.phone" name="phone" class="form-control form-control" type="tel" placeholder="1122335599"pattern="[0-9]{10}"min="10" max="10" maxlength="10" title="Porfavor, ingresa un teléfono a 10 digitos" value="">
             </div>
-            
+
             <br>
             <div class="form-actions clearfix">
                 <button type="submit" class="btn btn-primary btn-sm center-block" >
                   <spring:theme code="" />Enviar
                 </button>
-            </div> 
+            </div>
 
             <hr>
-            
+
             <div class="form-group text-center">
               <div class="checkbox">
                 <label class="control-label uncased" style="color:#020b27;;">
                   <small>
-                  <input id="helpChkTermsConditions" name="termsCheck" type="checkbox" value="true">He leído y acepto los 
-                  <a  href="/es/termsAndConditions" rel="nofollow" style="color:#085272; font-weight:bolder;"> Términos y condiciones </a><br>
+                  <input id="helpChkTermsConditions" name="termsCheck" type="checkbox" value="true">He leído y acepto los
+                  <a class="termsAndConditionsLink" href="/es/termsAndConditions" rel="nofollow" style="color:#085272; font-weight:bolder;"> Términos y condiciones </a><br>
                 Conoce nuestro<a href="/es/avisodeprivacidad" class="fineprint" style="color:#085272; font-weight: bolder;"> aviso de privacidad</i></a></small>
                 </label>
               </div>
             </div>
-    
+
           </form>
         </div>
       </div>

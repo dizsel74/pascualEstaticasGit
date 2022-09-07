@@ -1,9 +1,9 @@
-    <div class="container ">
+    <div class="container text-justify">
       <div class="col-lg-12" >
         <div class="jumbotron estatica_cuerpo " style="background: #3333;">
           <h1 class="text-center titulos-estaticas" >Terminos y Condiciones</h1>
          <hr>
-          <p class="margen-sup-inf">Este contrato describe los términos y condiciones generales (en adelante únicamente “TÉRMINOS Y CONDICIONES”) aplicables al uso  de los contenidos, productos y servicios ofrecidos a través del sitio <a href="www.pascualcontigo.com.mx" style="font-weight: 500;">pascualcontigo.com.mx</a> (en adelante, “SITIO WEB”), del cual es titular <b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b> (en adelante, “TITULAR”) quien tiene su domicilio establecido en la Ciudad de México, en la siguiente dirección:</p>
+          <p class="margen-sup-inf">Este contrato describe los términos y condiciones generales (en adelante únicamente “TÉRMINOS Y CONDICIONES”) aplicables al uso de los contenidos, productos y servicios ofrecidos a través del sitio <a href="www.pascualcontigo.com.mx" class="correos">pascualcontigo.com.mx</a> (en adelante, “SITIO WEB”), del cual es titular <b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b> (en adelante, “TITULAR”) quien tiene su domicilio establecido en la Ciudad de México, en la siguiente dirección:</p>
           <blockquote class="titulo-estatica">Clavijero No. 60, Colonia Tránsito, C.P. 06820, Alcaldía Cuauhtémoc.</blockquote>
           <p >Cualquier persona que desee acceder o hacer uso del sitio o los servicios que en él se ofrecen, podrá hacerlo sujetándose a los presentes TÉRMINOS Y CONDICIONES, así como a políticas y principios incorporados al presente documento. En todo caso, cualquier persona que no acepte los presentes términos y condiciones, deberá abstenerse de utilizar el SITIO WEB y/o adquirir los productos y servicios que en su caso sean ofrecidos.</p>
           <p><span class="seccion-terminos">POLÍTICA DE ENLACES</span></p>
@@ -28,9 +28,21 @@
           <p><b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b>, por si o como parte cesionaria, es titular de todos los derechos de propiedad intelectual e industrial del SITIO WEB, entendiendo por este el código fuente que hace posible su funcionamiento, así como las imágenes, archivos de audio o video, logotipos, marcas, combinaciones de colores, estructuras, diseños y demás elementos que lo distinguen. Serán, por consiguiente, protegidas por la legislación mexicana en materia de propiedad intelectual e industrial, así como por los tratados internacionales aplicables. Por consiguiente, queda expresamente prohibida la reproducción, distribución, o difusión de los contenidos del SITIO WEB, con fines comerciales, en cualquier soporte y por cualquier medio, sin la autorización por escrito de <b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b></p>
           <p>Por otro lado, el USUARIO, se abstendrá de suprimir, alterar, o manipular cualquier elemento, archivo, o contenido, del SITIO WEB, y por ningún motivo realizará actos tendientes a vulnerar la seguridad, los archivos o bases de datos que se encuentren protegidos, ya sea a través de un acceso restringido mediante un usuario y contraseña, o porque no cuente con los permisos para visualizarlos, editarlos o manipularlos.</p>
           <p>En caso de que el USUARIO o algún tercero consideren que cualquiera de los contenidos del SITIO WEB suponga una violación de los derechos de protección de la propiedad industrial o intelectual, deberá comunicarlo inmediatamente a <b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b>, a través de los datos de contacto disponibles en el propio SITIO WEB y/o a través de los siguientes medios:</p>
-          <blockquote class="titulo-estatica">Teléfono: 55 51 32 08 56  /  55 51 32 08 30 Ext. 1177  / 80 07 27 28 25<br>
-            Correo electrónico: <a href="contacto@pascual.com.mx" style="font-weight: 500;">contacto@pascual.com.mx</a> y <a href="pascualcontigo@pascual.com.mx" style="font-weight: 500;">pascualcontigo@pascual.com.mx</a>
-          </blockquote>
+            <p>
+                <b>Teléfonos:</b><br>
+                <div style="padding-left: 5px">
+                    55 51 32 08 56<br>
+                    55 51 32 08 30 Ext. 1177<br>
+                    80 07 27 28 25
+                </div>
+            </p>
+            <p>
+                <b>Correo electrónico:</b><br>
+                <div style="padding-left: 5px">
+                  <a href="contacto@pascual.com.mx"  class="correos">contacto@pascual.com.mx</a> <br>
+                  <a href="pascualcontigo@pascual.com.mx"  class="correos">pascualcontigo@pascual.com.mx</a>
+                </div>
+            </p>
           <p><span class="seccion-terminos">LEGISLACIÓN Y JURISDICCIÓN APLICABLE</span></p>
           <p><b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b>, se reserva la facultad de presentar las acciones civiles o penales que considere necesarias por la utilización indebida del SITIO WEB, sus contenidos, productos o servicios, o por el incumplimiento de los presentes TÉRMINOS Y CONDICIONES.</p>
           <p>La relación entre el USUARIO y <b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b>, se regirá por la legislación vigente en México, específicamente en la Ciudad de México. De surgir cualquier controversia en relación a la interpretación y/o a la aplicación de los presentes TÉRMINOS Y CONDICIONES, las partes se someterán a la jurisdicción ordinaria de los tribunales que correspondan conforme a derecho en el estado al que se hace referencia.</p>

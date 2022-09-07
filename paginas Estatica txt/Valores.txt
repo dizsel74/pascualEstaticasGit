@@ -1,4 +1,4 @@
-<div class="container-fluid">
+  <div class="container-fluid text-justify">
     <div class="row ">
       <div class="col-md-6 col-lg-4  img_top-2 ">
         <img class="img-responsive hidden-xs hidden-sm" src="https://pascualstorefront.c5kpw3rkr5-sociedadc1-d1-public.model-t.cc.commerce.ondemand.com/medias/peques-vertical.png?context=bWFzdGVyfGltYWdlc3w3NjEwMzB8aW1hZ2UvcG5nfGg1ZS9oZDIvODgyODA2NTYxMTgwNi9wZXF1ZXMtdmVydGljYWwucG5nfGRmNDRiNThlYTA1YjU2MmJhOTQ5MGRkZjRhYjUwMDViNjY1YzYyY2JlNTliYTIxZGE2NWMyMDE1MzdjZWRiODU" alt="imagen 2 ninos" >
@@ -9,7 +9,7 @@
         <p class="leads">Estos son nuestros valores </p>
         <div class="article-body">
           <p id="valores__title">Solidaridad</p>
-           <blockquote class="titulo-estatica">Es la unión a la causa de los demás apoyándonos mutuamente.</blockquote>  
+           <blockquote class="titulo-estatica">Es la unión a la causa de los demás apoyándonos mutuamente.</blockquote>
         </div>
         <div class="article-body">
           <p id="valores__title">Responsabilidad</p>
@@ -36,4 +36,3 @@
       </div>
     </div>
   </div>
-  

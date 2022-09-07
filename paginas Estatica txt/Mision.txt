@@ -1,4 +1,4 @@
-<div class="container-fluid">
+  <div class="container-fluid text-justify">
     <div class="row ">
       <div class="col-md-6 col-lg-4 img_top-2 ">
         <img class="img-responsive hidden-xs hidden-sm" src="https://pascualstorefront.c5kpw3rkr5-sociedadc1-d1-public.model-t.cc.commerce.ondemand.com/medias/ni-aboing-vertical.png?context=bWFzdGVyfGltYWdlc3w5NTE2MzB8aW1hZ2UvcG5nfGg0Zi9oY2MvODgyODA2NTQ4MDczNC9uacOxYWJvaW5nLXZlcnRpY2FsLnBuZ3w4NTJhNzUwZDQ3MmJiNTEwYjdlNmM2ZTU4NWFlMzI2NGE3NmZmM2RhZTcxYTcxZjk0MjZhMGIyODk1OTg4ZWQy" alt="nina tomando boing" >
@@ -6,7 +6,7 @@
       </div>
       <div class="col-md-6 col-lg-8 estatica_cuerpo">
         <h1 class="encabezado titulos-estaticas">Misi&oacute;n</h1>
-       
+
         <div class="article-body">
           <p >En Sociedad Cooperativa Trabajadores de Pascual, S.C.L. nos dedicamos a elaborar, envasar, distribuir y comercializar bebidas naturales, nutritivas y saludables, que deleitan y satisfacen el gusto de los consumidores.</p>
       </div>

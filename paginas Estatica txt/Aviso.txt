@@ -1,10 +1,10 @@
-  <div class="container ">
+ <div class="container text-justify">
       <div class="col-lg-12" >
         <div class="jumbotron estatica_cuerpo " style="background: #3333;">
           <h1 class="text-center  titulos-estaticas" >Aviso de privacidad y protección de datos personales</h1>
          <hr>
           <p class="margen-sup-inf">Este aviso, que contiene información especial para los usuarios localizados en México, se emite de conformidad con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares de México.</p>
-          <p><b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b> también conocido como Pascual Boing (en adelante Cooperativa Pascual), con domicilio en Calle Clavijero número 60, Colonia Tránsito, Alcaldía Cuauhtémoc, C.P. 06820, Ciudad de México, portal de internet: <a href="www.pascualcontigo.com.mx" style="font-weight: 500;">pascualcontigo.com.mx</a>, teléfonos: 55 51 32 08 56  /  55 51 32 08 30 Ext. 1177, está comprometida con la protección de sus datos personales, al ser responsable del uso, manejo y confidencialidad de aquella persona que acceda navegue o utilice el e-commerce, (en adelante el Usuario) mediante la continua revisión de nuestros procesos de protección de datos de manera tanto física como electrónica. </p>
+          <p><b>Sociedad Cooperativa Trabajadores de Pascual, S.C.L.</b> también conocido como Pascual Boing (en adelante Cooperativa Pascual), con domicilio en Calle Clavijero número 60, Colonia Tránsito, Alcaldía Cuauhtémoc, C.P. 06820, Ciudad de México, portal de internet: <a href="www.pascualcontigo.com.mx" class="correos">pascualcontigo.com.mx</a>, teléfonos: 55 51 32 08 56  /  55 51 32 08 30 Ext. 1177, está comprometida con la protección de sus datos personales, al ser responsable del uso, manejo y confidencialidad de aquella persona que acceda navegue o utilice el e-commerce, (en adelante el Usuario) mediante la continua revisión de nuestros procesos de protección de datos de manera tanto física como electrónica. </p>
           <p><span class="seccion-terminos">¿Para qué fines recabamos y utilizamos sus datos personales?</span></p>
           <p>Queremos que sepa que no tiene la obligación de proporcionarnos la información personal que se solicite a través del SITIO WEB, sin embargo, este es un requisito esencial para poder contratar y/o tener cualquier tipo de relación con Cooperativa Pascual dentro del e-commerce, y si no se proporciona esta información, Cooperativa Pascual no podrá brindar el servicio o la capacidad de atención podrá verse significativamente obstaculizada, Cooperativa Pascual siempre actuara aplicando el principio de: <b>“Todo tratamiento de datos personales estará sujeto al consentimiento de su titular”</b>, le informamos que los datos proporcionados por Usted, serán utilizados exclusivamente para:</p>
           <blockquote class="titulo-estatica">
@@ -31,13 +31,20 @@
             </ol>
           </blockquote>
           <p>En caso de que no desee que sus datos personales sean tratados para estos fines adicionales, desde este momento usted lo puede manifestar a través de los siguientes medios:</p>
-          <blockquote class="titulo-estatica">
-            <ol>
-              <li>De manera personal (en cualquiera de nuestras Sucursales, Centros de Distribución o en las oficinas del Corporativo).</li>
-              <li>Vía telefónica al número:	55 51 32 08 56 / 55 51 32 08 30 Ext. 1177 / 8007 27 28 25, o bien,</li>
-              <li>Vía correo electrónico a:	<a href="contacto@pascual.com.mx" style="font-weight: 500;">contacto@pascual.com.mx</a> y <a href="pascualcontigo@pascual.com.mx" style="font-weight: 500;">pascualcontigo@pascual.com.mx</a></li>
-            </ol>
-          </blockquote>
+            <p class="titulo-estatica">
+            <ul type="I">
+                <li>El nombre del titular y domicilio u otro medio para comunicarle la respuesta a su solicitud;</li><br>
+                <li>Vía telefónica: <br>
+                    55 51 32 08 56<br>
+                    55 51 32 08 30 Ext. 1177<br>
+                    80 07 27 28 25
+                </li><br>
+                <li>Vía correo electrónico:<br>
+                    <a href="contacto@pascual.com.mx"  class="correos">contacto@pascual.com.mx</a> <br>
+                    <a href="pascualcontigo@pascual.com.mx"  class="correos">pascualcontigo@pascual.com.mx</a>
+                </li>
+            </ul>
+            </p>
           <p>La negativa del uso de sus datos personales para estas finalidades adicionales, no podrá ser motivo para que le sean negados los productos que solicita y/o contrata con nosotros.</p>
           <p><span class="seccion-terminos">Datos personales para las finalidades del aviso de privacidad.</span></p>
           <p>Para las finalidades señaladas en el presente aviso de privacidad, recabaremos y utilizaremos los siguientes datos personales:</p>
@@ -58,15 +65,22 @@
           <p><span class="seccion-terminos">¿Cómo puede acceder, rectificar o cancelar sus datos personales u oponerse a su uso?</span></p>
           <p>La protección de datos personales es un derecho humano que le da a los individuos el poder de controlar la información que comparten con terceros, así como el derecho a que ésta se utilice de forma adecuada, para permitir el ejercicio de otros derechos y evitar daños a su Titular.</p>
           <p>La Constitución Política de los Estados Unidos Mexicanos, en su artículo 16, en el párrafo II, reconoce el derecho a la protección de sus datos personales como una garantía individual, al señalar que “...Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición en los términos que fije la Ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros...”</p>
-          <p>En todo momento usted podrá limitar el uso o divulgación de sus datos personales mediante el ejercicio de los derechos ARCO (Acceso, Rectificación, Cancelación y Oposición) que la Ley prevé mediante la presentación de su <b>solicitud por escrito</b> en cualquiera de nuestras Sucursales, Centros de Distribución o en nuestras oficinas de Corporativo en el Departamento de Ecommerce, cuyo domicilio está ubicado en: Calle Clavijero número 60, Colonia Tránsito, Alcaldía Cuauhtémoc, C.P. 06820, en la Ciudad de México o comunicarse a nuestro servicio al cliente por medio de los siguientes correos electrónicos: <a href="contacto@pascual.com.mx" style="font-weight: 500;">contacto@pascual.com.mx</a>, <a href="pascualcontigo@pascual.com.mx" style="font-weight: 500;">pascualcontigo@pascual.com.mx</a>, o por vía telefónica al 55-51-32-08-30 ext: 1336, 1177 y 80-07-27-28-25</p>
+          <p>En todo momento usted podrá limitar el uso o divulgación de sus datos personales mediante el ejercicio de los derechos ARCO (Acceso, Rectificación, Cancelación y Oposición) que la Ley prevé mediante la presentación de su <b>solicitud por escrito</b> en cualquiera de nuestras Sucursales, Centros de Distribución o en nuestras oficinas de Corporativo en el Departamento de Ecommerce, cuyo domicilio está ubicado en: Calle Clavijero número 60, Colonia Tránsito, Alcaldía Cuauhtémoc, C.P. 06820, en la Ciudad de México o comunicarse a nuestro servicio al cliente por medio de los siguientes correos electrónicos: <a href="contacto@pascual.com.mx" class="correos">contacto@pascual.com.mx</a>, <a href="pascualcontigo@pascual.com.mx" class="correos">pascualcontigo@pascual.com.mx</a>, o por vía telefónica al 55-51-32-08-30 ext: 1336, 1177 y 80-07-27-28-25</p>
           <p>La solicitud para el ejercicio de los derechos ARCO deberá contener:</p>
-          <blockquote class="titulo-estatica">
+          <p class="titulo-estatica">
             <ul type="I">
-              <li>El nombre del titular y domicilio u otro medio para comunicarle la respuesta a su solicitud;</li>
-              <li>Vía telefónica al número:	55 51 32 08 56 / 55 51 32 08 30 Ext. 1177 / 8007 27 28 25, o bien,</li>
-              <li>Vía correo electrónico a:	<a href="contacto@pascual.com.mx" style="font-weight: 500;">contacto@pascual.com.mx</a> y <a href="pascualcontigo@pascual.com.mx" style="font-weight: 500;">pascualcontigo@pascual.com.mx</a></li>
+              <li>El nombre del titular y domicilio u otro medio para comunicarle la respuesta a su solicitud;</li><br>
+              <li>Vía telefónica: <br>
+                      55 51 32 08 56<br>
+                      55 51 32 08 30 Ext. 1177<br>
+                      80 07 27 28 25
+              </li><br>
+              <li>Vía correo electrónico:<br>
+                      <a href="contacto@pascual.com.mx"  class="correos">contacto@pascual.com.mx</a> <br>
+                      <a href="pascualcontigo@pascual.com.mx"  class="correos">pascualcontigo@pascual.com.mx</a>
+              </li>
             </ul>
-          </blockquote>
+          </p>
           <p>En el caso de solicitudes de rectificación de datos personales, el titular deberá indicar, además de lo señalado con antelación, las modificaciones a realizarse y aportar la documentación que sustente su petición.</p>
           <p><span class="seccion-terminos">¿Cómo compartimos la información personal?</span></p>
           <p>El resguardo de tu privacidad es muy importante para Cooperativa Pascual, por ello no vendemos ni comercializamos información que identifique a nuestros usuarios, Tampoco compartimos o transferimos de ningún otro modo tu información personal a Terceros, salvo de la manera indicada a continuación:</p>

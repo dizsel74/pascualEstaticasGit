@@ -1,5 +1,4 @@
-
-     <div class="container text-justify">
+<div class="container text-justify">
       <div class="col-lg-12" >
         <div class="jumbotron estatica_cuerpo" style="background: #eeee;">
           <h1 class="text-center  titulos-estaticas" >Preguntas Frecuentes</h1>

@@ -1,5 +1,4 @@
-
-  <div class="container-fluid">
+  <div class="container-fluid text-justify">
     <div class="row ">
       <div class="col-md-6 col-lg-4  img_top-2 ">
         <img class="img-responsive hidden-xs hidden-sm" src="https://pascualstorefront.c5kpw3rkr5-sociedadc1-d1-public.model-t.cc.commerce.ondemand.com/medias/ni-oyabuelo-vertical.png?context=bWFzdGVyfGltYWdlc3w2Mzk1NDB8aW1hZ2UvcG5nfGgwYy9oZDMvODgyODA2NTY3NzM0Mi9uacOxb3lhYnVlbG8tdmVydGljYWwucG5nfDZmZDJjODVmZmI5NmUxZmZiYjJhY2IxNGMyOWRiM2YyMjY2MzJkZjg5NWJlMDJiZGQwODYyNjUwZGFlYjU3M2U" alt="imagen nino" >
@@ -7,11 +6,11 @@
       </div>
       <div class="col-md-6 col-lg-8  estatica_cuerpo">
         <h1 class="encabezado titulos-estaticas">Visi&oacute;n</h1>
-       
-        <div class="article-body"> 
+
+        <div class="article-body">
           <p >En Sociedad Cooperativa Trabajadores de Pascual, S.C.L. nos vemos manteniéndonos como una cooperativa 100% mexicana, incrementando la participación en el mercado nacional e internacional en la gama de bebidas de fruta, néctares, bebidas carbonatadas, agua purificada y lácteos, comprometidos con la calidad y excelencia de nuestros productos para la satisfacción de las expectativas de los consumidores.</p>
           <blockquote class="titulo-estatica">" . . . una cooperativa 100% mexicana . . ."</blockquote>
-         
+
       </div>
     </div>
   </div>
